@@ -26,6 +26,9 @@ Here is a curated look at the functional prototypes I build to validate requirem
 * **[Luxury-Handbag-Storefront](https://github.com/AtweAkshay/Luxury-Handbag-Storefront)**
   * *Product Concept*: High-conversion e-commerce buyer storefront.
   * *PMT Focus*: Stress-testing Stripe checkout payment gateways and conversion funnel mechanics.
+* **[Log_Reader](https://github.com/AtweAkshay/Log_Reader)**
+  * *Product Concept*: B2B Semiconductor Machinery Operational Throughput Analytics.
+  * *PMT Focus*: Parsing low-level mechanical and optical event telemetry, mapping state transitions, and auditing machine cycle performance (wafer-per-hour yield).
 
 ---
 
