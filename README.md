@@ -14,6 +14,7 @@ Here is a curated look at the functional prototypes I build to validate requirem
 * **[Phoenix-PLM](https://github.com/AtweAkshay/Phoenix-PLM)** *(Flagship)*
   * *Product Concept*: AI-Native Product Lifecycle Management & Sourcing Aggregator.
   * *PMT Focus*: Validating hardware NPI sourcing workflows, Altium Nexar API alternative component lookups, and automated BRD-to-BOM translation.
+  * *Demo Video*: [![Watch Demo on Loom](https://img.shields.io/badge/Watch_on_Loom-6B46C1?style=flat-square&logo=loom)](https://www.loom.com/share/7d2a955dbb034f45ba586b0990c8cf6a)
 * **[CampEasy-Aggregator](https://github.com/AtweAkshay/CampEasy-Aggregator)**
   * *Product Concept*: High-performance multi-provider California campground search platform.
   * *PMT Focus*: Testing API aggregation logic across diverse state/federal systems and designing low-latency query-caching user experiences.
@@ -26,6 +27,7 @@ Here is a curated look at the functional prototypes I build to validate requirem
 * **[Luxury-Handbag-Storefront](https://github.com/AtweAkshay/Luxury-Handbag-Storefront)**
   * *Product Concept*: High-conversion e-commerce buyer storefront.
   * *PMT Focus*: Stress-testing Stripe checkout payment gateways and conversion funnel mechanics.
+  * *Demo Video*: [![Watch Demo on Loom](https://img.shields.io/badge/Watch_on_Loom-6B46C1?style=flat-square&logo=loom)](https://www.loom.com/share/93ce21e6003541ea88ed0ae257373cb1)
 * **[Log_Reader](https://github.com/AtweAkshay/Log_Reader)**
   * *Product Concept*: B2B Semiconductor Machinery Operational Throughput Analytics.
   * *PMT Focus*: Parsing low-level mechanical and optical event telemetry, mapping state transitions, and auditing machine cycle performance (wafer-per-hour yield).
