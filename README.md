@@ -15,6 +15,9 @@ Here is a curated look at the functional prototypes I build to validate requirem
   * *Product Concept*: AI-Native Product Lifecycle Management & Sourcing Aggregator.
   * *PMT Focus*: Validating hardware NPI sourcing workflows, Altium Nexar API alternative component lookups, and automated BRD-to-BOM translation.
   * *Demo Video*: [![Watch Demo on Loom](https://img.shields.io/badge/Watch_on_Loom-6B46C1?style=flat-square&logo=loom)](https://www.loom.com/share/7d2a955dbb034f45ba586b0990c8cf6a)
+* **[GameStream-Recorder-Recflow](https://github.com/AtweAkshay/GameStream-Recorder-Recflow)**
+  * *Product Concept*: High-performance, 100% local gaming and desktop screen recorder with real-time video/audio mixing.
+  * *PMT Focus*: Validating native desktop hardware capture APIs, high-performance HTML5 Canvas overlay renderers (60 FPS), real-time Web Audio API mixes (voice + system sounds), and client-side crash-resilient folder chunk appending.
 * **[CampEasy-Aggregator](https://github.com/AtweAkshay/CampEasy-Aggregator)**
   * *Product Concept*: High-performance multi-provider California campground search platform.
   * *PMT Focus*: Testing API aggregation logic across diverse state/federal systems and designing low-latency query-caching user experiences.
